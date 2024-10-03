@@ -1,0 +1,422 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS Studios FHD" tvg-logo="http://xplatinmedia.com:8080/images/55f97607b08e3c569a087b3775389d5a.png" group-title="PORTUGUESE",PT: NOS Studios FHD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604176
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS Studios HD" tvg-logo="http://xplatinmedia.com:8080/images/55f97607b08e3c569a087b3775389d5a.png" group-title="PORTUGUESE",PT: NOS Studios HD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604177
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS Studios HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/55f97607b08e3c569a087b3775389d5a.png" group-title="PORTUGUESE",PT: NOS Studios HD HEVC
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604178
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS Studios SD" tvg-logo="http://xplatinmedia.com:8080/images/55f97607b08e3c569a087b3775389d5a.png" group-title="PORTUGUESE",PT: NOS Studios SD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604179
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action FHD" tvg-logo="http://xplatinmedia.com:8080/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGUESE",PT: TVCine Action FHD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604355
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action HD" tvg-logo="http://xplatinmedia.com:8080/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGUESE",PT: TVCine Action HD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604356
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGUESE",PT: TVCine Action HD HEVC
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604357
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action SD" tvg-logo="http://xplatinmedia.com:8080/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGUESE",PT: TVCine Action SD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604358
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition FHD" tvg-logo="http://xplatinmedia.com:8080/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGUESE",PT: TVCine Edition FHD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604359
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition HD" tvg-logo="http://xplatinmedia.com:8080/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGUESE",PT: TVCine Edition HD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604360
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGUESE",PT: TVCine Edition HD HEVC
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604361
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition SD" tvg-logo="http://xplatinmedia.com:8080/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGUESE",PT: TVCine Edition SD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604362
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion FHD" tvg-logo="http://xplatinmedia.com:8080/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGUESE",PT: TVCine Emotion FHD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604363
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion HD" tvg-logo="http://xplatinmedia.com:8080/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGUESE",PT: TVCine Emotion HD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604364
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGUESE",PT: TVCine Emotion HD HEVC
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604365
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion SD" tvg-logo="http://xplatinmedia.com:8080/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGUESE",PT: TVCine Emotion SD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604366
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top FHD" tvg-logo="http://xplatinmedia.com:8080/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGUESE",PT: TVCine Top FHD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604367
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top HD" tvg-logo="http://xplatinmedia.com:8080/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGUESE",PT: TVCine Top HD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604368
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGUESE",PT: TVCine Top HD HEVC
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604369
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top SD" tvg-logo="http://xplatinmedia.com:8080/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGUESE",PT: TVCine Top SD
+http://defaultgen.com:3050/warreng.gore1@gmail.com/3yPggzBu7A/604370
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/Bigwill1224/4265891370/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/Bigwill1224/4265891370/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/Bigwill1224/4265891370/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/Bigwill1224/4265891370/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/ArqilePipa/2794503861/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/ArqilePipa/2794503861/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/ArqilePipa/2794503861/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/ArqilePipa/2794503861/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/BradB/11162021/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/BradB/11162021/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/BradB/11162021/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/BradB/11162021/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/BUTCHS01/7460532198/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/BUTCHS01/7460532198/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/BUTCHS01/7460532198/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/BUTCHS01/7460532198/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/Assclub/4731602859/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/Assclub/4731602859/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/Assclub/4731602859/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/Assclub/4731602859/780347
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="PORTUGAL FHD HEVC",|PT| TV CINE 1 HEVC
+http://vip.fr3tv.com:25443/live/jsouillart/UEYKKP640U/139898.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="PORTUGAL FHD HEVC",|PT| TV CINE 2 HEVC
+http://vip.fr3tv.com:25443/live/jsouillart/UEYKKP640U/139899.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 3 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="PORTUGAL FHD HEVC",|PT| TV CINE 3 HEVC
+http://vip.fr3tv.com:25443/live/jsouillart/UEYKKP640U/139900.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 4 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="PORTUGAL FHD HEVC",|PT| TV CINE 4 HEVC
+http://vip.fr3tv.com:25443/live/jsouillart/UEYKKP640U/139901.ts
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png?ssl=1" group-title="PORTUGAL FHD HEVC",|PT| NOS STUDIO HEVC
+http://vip.fr3tv.com:25443/live/jsouillart/UEYKKP640U/139921.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS
+http://voidharbinger.xyz:80/Bengals/2847961350/780307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="PORTUGAL",PT: TV SERIES
+http://voidharbinger.xyz:80/Bengals/2847961350/780345
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 1
+http://voidharbinger.xyz:80/Bengals/2847961350/780346
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2
+http://voidharbinger.xyz:80/Bengals/2847961350/780347
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="Portugal ➾ Movie",PT: Nos Studios
+http://iptvtree.net:8080/mrhyena10/0ec929873f/1454
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCine Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal ➾ Movie",PT: TVCine Action
+http://iptvtree.net:8080/mrhyena10/0ec929873f/1452
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal ➾ Movie",PT: TVCine Edition
+http://iptvtree.net:8080/mrhyena10/0ec929873f/82254
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal ➾ Movie",PT: TVCine Emotion
+http://iptvtree.net:8080/mrhyena10/0ec929873f/1448
+#EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="PT: TVCine Top" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal ➾ Movie",PT: TVCine Top
+http://iptvtree.net:8080/mrhyena10/0ec929873f/1446
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ⏺ʳᵉᶜ",┃PT┃ TV CINE TOP HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=842605&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ⏺ʳᵉᶜ",┃PT┃ TV CINE ACTION HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=842604&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ⏺ʳᵉᶜ",┃PT┃ TV CINE EDITION HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=842603&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ⏺ʳᵉᶜ",┃PT┃ TV CINE EMOTION HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=842602&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ⏺ʳᵉᶜ",┃PT┃ NOS STUDIO HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=842597&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE ACTION 4K ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=851429&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE EDITION 4K ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=851428&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE EMOTION 4K ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=851427&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NOS STUDIOS 4K ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=851415&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561041&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561042&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561534&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561039&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561040&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561034&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561035&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561036&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561033&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561037&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561038&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561535&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSSERIES.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TV SERIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561032&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561018&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561019&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561023&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ X-MEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561408&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ ROCKY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561407&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ VELOCIDADE FURIOSA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561406&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ SENHOR DOS ANEIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561405&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561404&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ NETFLIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561403&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ MARVEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561400&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ MARVEL 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561396&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ HARRY POTTER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561397&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ APAIXONADO SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA AÇÃO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA COMEDIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA ROMANCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ STALLONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA FAMILIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ STAR WARS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ JACKIE CHAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ RESIDENT EVIL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561374&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ JAMES BOND 007 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561373&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ POLICE ACADEMY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561372&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ INDIANA JONES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561371&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ GATO FEDORENTO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA BRASIL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561383&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ TERROR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561382&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA PORTUGUES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:20:29&stream=561381&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
